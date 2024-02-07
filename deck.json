@@ -1,0 +1,1045 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "4749c274-c590-11ee-b0f1-f2a0fc844426",
+    "deck_config_uuid": "4749c275-c590-11ee-a7ca-f2a0fc844426",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "4749c275-c590-11ee-a7ca-f2a0fc844426",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "fsrsWeights": [],
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 150
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 1500
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "paste-01daa23e0dbe82281294ae5a25eadfae4e49eb03.jpg",
+        "paste-03001e4d6abd99983090baf23e6846a858ede459.jpg",
+        "paste-09d9b99fe4124470350c908e74780d755bc6a6c0.jpg",
+        "paste-1024c901f18fa2f5551a32ad8420c03b0ae666db.jpg",
+        "paste-1209333025a63020e1ada3eb611f2214e8a2f2d4.jpg",
+        "paste-15858a102e04be9967208936c4ceca6d76326e9d.jpg",
+        "paste-1b6a1a70541dafd3da371d6ce8e024573d596546.jpg",
+        "paste-1c4ae7143d385f3b9a9de69c593670699cd9bbbe.jpg",
+        "paste-1d0a9e2cf7d32082a7553314682cdd7e606ff216.jpg",
+        "paste-29f1b91a6da8d9cf874789038d7e54d62104a3fb.jpg",
+        "paste-2a77bbcc98b1e052f14f6d75afcc8d8c56be311b.jpg",
+        "paste-2f947873422ccee010b57bc1474b1f00151e0fb7.jpg",
+        "paste-3e1cd809e92c5daaa3b737b26fd397618f3bcc36.jpg",
+        "paste-4344ed80bf5ef28a0bc6c29b9c6ce88a860d5cbd.jpg",
+        "paste-43d00e9bb87f86c231ce67870172e00a8c9e1eb0.jpg",
+        "paste-45a48dc64564a49f714b0b135c2412b168e39fa1.jpg",
+        "paste-4817a200676ddcc8be718b496333a10407824eaf.jpg",
+        "paste-593f72d949d2f0ad5e08c46ff2cda9322eb88459.jpg",
+        "paste-630ceb1e924ec8d70ebdef62db0643198e063188.jpg",
+        "paste-673271c831ab200926fa7c740800d46453a7b253.jpg",
+        "paste-6757b7ff3d7d711b2b5e3ba05af0370a0d3cf3a0.jpg",
+        "paste-6a7c33b85e15771fbb631f1d7587530576f6d00b.jpg",
+        "paste-6ecba8b35e6237cba0ef5b6b16cdb8211d99e826.jpg",
+        "paste-75aa69f95daf214bf42e9a713627708ec78719ab.jpg",
+        "paste-77ed3184cf4832241835c6de5b6b49a23bf2c735.jpg",
+        "paste-78855317c71bad30010a941719f17099ab60a915.jpg",
+        "paste-79b3eb9f287b3bd3611601f27cc527bf1f66065e.jpg",
+        "paste-96c22827adc213abda8e9c1d7d4013fbec4dd870.jpg",
+        "paste-a094a0072c4a3e4148c7c10d4bfdbbb183bb2c49.jpg",
+        "paste-affb018167938e553c43386f28596e8d407ee66f.jpg",
+        "paste-b04bd0b3cbde35eaa54fd5e74a1365caa299de57.jpg",
+        "paste-b31374465f026aa2e5028eff1841d2c3308a0d6f.jpg",
+        "paste-b5264082ab1131da1d665bea96f08957a73a2a6d.jpg",
+        "paste-b8549901f207ef541373af48f73091c8f93037e9.jpg",
+        "paste-bddfd3f6b6f61443846b1ef829f8a082a7c9cd69.jpg",
+        "paste-c73814c6e1e8a140de8f6a1ee289a5439416ecc7.jpg",
+        "paste-ced4563d4d3b2d5407ec21c7c943d028dcd3a8fa.jpg",
+        "paste-d36b05289001a201f15a67de00a9f73d1b2f20cb.jpg",
+        "paste-dbde1ef84000824a4fe5d22ef956fc1a78652d06.jpg",
+        "paste-dd8c0d3264a633fa3a46a8a2165cbae493531cff.jpg",
+        "paste-e0c30fffe39d96f4d394ca6a7bf993e528951077.jpg",
+        "paste-e539127d6b68a33248951311c18c06cdab04880b.jpg",
+        "paste-e96bcf0050f6e91da882f4ce75a9bed87eb09053.jpg",
+        "paste-ee34c3ba4d99a757d2af3fd652dcc50ee4b60d91.jpg",
+        "paste-f10addf0c631b0f3f9f1c2c485403d41f9e66d1f.jpg",
+        "paste-f2528878be7f338b742f62dd27105e889ee377ce.jpg",
+        "paste-ff49c05687ac767843c12ae0b9879f18da088cec.jpg"
+    ],
+    "name": "Digital Technik",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie wird eine Binärstelle bezeichnet?",
+                "Bit"
+            ],
+            "guid": "JNovYEQ+p<",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Abkürzung bit",
+                "binary digit"
+            ],
+            "guid": "Jk|9F=;4(]",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was für Werte kann ein Bit haben",
+                "<ul><li>0</li><li>1</li></ul>"
+            ],
+            "guid": "kUUPGzSgab",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dualsystem Zahlenbasis und Wert",
+                "<ul><li>B =2</li><li>0,1&nbsp;</li></ul>"
+            ],
+            "guid": "b,XmU^,gRZ",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dezimalsystem Zahlenbasis und Wert",
+                "<ul><li>B=10</li><li>0,1,2,3,4,5,6,7,8,9</li></ul>"
+            ],
+            "guid": "Dio?*e4%j+",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hexadezimalsystem (Hex-System) Zahlenbasis und Wert",
+                "<ul><li>B=16</li><li>0,1,2,3,4,5,6,7,8,9, a,b,c,d,e,f</li></ul>"
+            ],
+            "guid": "r`$eKuNj%p",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Darstellung des Dezimalsystems am Beispiel 205",
+                "<img src=\"paste-6a7c33b85e15771fbb631f1d7587530576f6d00b.jpg\">"
+            ],
+            "guid": "QgZBctTT_;",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Darstellung des Dualsystems am Beispiel 1101",
+                "<img src=\"paste-b31374465f026aa2e5028eff1841d2c3308a0d6f.jpg\">"
+            ],
+            "guid": "L]=uWRC*k-",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Darstellung des Hexadezimalsystems am Beispiel F3D",
+                "<img src=\"paste-15858a102e04be9967208936c4ceca6d76326e9d.jpg\">"
+            ],
+            "guid": "CfiEa&oMh<",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kommt man von 50,8125 auf die Binäre schreibweise?",
+                "<div><ul><li>50 / 2 = 25 Rest 0</li><li>25 / 2 = 12 Rest 1</li><li>12/2 = 6&nbsp;&nbsp;&nbsp; Rest 0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&gt; Fängt nach dem ,\nlinks an</li><li>6/2 = 3 Rest 0</li><li>3/2 = 1 Rest 1</li><li>1 /2 = 0 Rest 1</li><li>&nbsp;</li><li>&nbsp;</li><li>0,8125 * 2 = 1,625 =\n1,625 = 0,625 1</li><li>0,625 *2 = 1,25 =\n0,25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fängt nach dem , rechts an</li><li>0,25 * 2 = 0,5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </li><li>0,5 * 2 = 1 = 0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1</li><li><br></li><li>110010,1101</li></ul></div>\n\n\n\n\n\n\n\n\n\n\n"
+            ],
+            "guid": "g|o=9?w:Qz",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kommt man von 110010,1101 auf die Dezimalschreibweiße?",
+                "<img src=\"paste-4817a200676ddcc8be718b496333a10407824eaf.jpg\">"
+            ],
+            "guid": "i>yZ_!&!po",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kommt man von Dezimal 3901,78125 auf Hexadezimal?",
+                "<img src=\"paste-4344ed80bf5ef28a0bc6c29b9c6ce88a860d5cbd.jpg\">"
+            ],
+            "guid": "jG%U0F8Z5^",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wenn man 3901/16 Teilt kommt 0,8125 raus wie komme ich damit auf 13 für Hexadezimal?",
+                "*16 -&gt; 13 -&gt; D"
+            ],
+            "guid": "eMb,26qsl>",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie komme ich von Hexadezimal F3D,CD auf Dezimal?",
+                "<img src=\"paste-03001e4d6abd99983090baf23e6846a858ede459.jpg\">"
+            ],
+            "guid": "o^*Z`E$[n_",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Addition wie mache ich es wenn ich 1+1 habe?",
+                "Übertrag auf die Nächste Reihe"
+            ],
+            "guid": "hqT:Hz}Sg.",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie rechne ich 10+14 = 24 im Dualsystem?",
+                "<img src=\"paste-e96bcf0050f6e91da882f4ce75a9bed87eb09053.jpg\">"
+            ],
+            "guid": "qKe*{[(*s=",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie rechne ich 1,5 + 10,5 = 12 im Dualsystem?",
+                "<img src=\"paste-1209333025a63020e1ada3eb611f2214e8a2f2d4.jpg\">"
+            ],
+            "guid": "F+m(A.vT<#",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann ich Zahlein zu Binär umformen?",
+                "8 4 2 1<br>1 0 1 0<br><br>Beispiel:<br><br>10 = 1010 -&gt; 8 + 2<br>14 = 1110 -&gt; 8+2+4"
+            ],
+            "guid": "C/`aDvR&s?",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie funktioniert die Darstellung negativer Zahlen mit dem Vorzeichenbit?",
+                "<ul><li>befindet sich an der höchstwertigen Stelle eines Binärwortes</li><li>n Binärstellen</li><li>Zahlenbereiche für positive und negative Zahlen</li></ul>"
+            ],
+            "guid": "u=0GLOZl+f",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vorteil Vorzeichenbit",
+                "<div>Entspricht\nvollkommen der Darstellung im Dezimalsystem</div>"
+            ],
+            "guid": "uVx.*E[k..",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nachteil Vorzeichenbit",
+                "<div>Es gibt zwei\nUnterschiedliche Darstellung der Zahl \"0\" (positive Null, negative\nNull)</div>"
+            ],
+            "guid": "px,0ne?;LF",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Vorzeichenbit",
+                "<img src=\"paste-f10addf0c631b0f3f9f1c2c485403d41f9e66d1f.jpg\">"
+            ],
+            "guid": "bdqUH}`lq6",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie funktioniert das Offset Binary?",
+                "<ul><li>Sehr einfache Verteilung in Poistive und negative Zahlen</li><li>Eine vorgegebene duale Zahlenskala wird halbiert, der mittlere Wert willkürlich als Null definiert</li><li>Größere Werte erhalten +&nbsp;</li><li>kleinere -</li></ul><br>"
+            ],
+            "guid": "FY,kV96uqt",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wo wird das Offset Binary häufig benutzt?",
+                "<div>Wird sehr oft in\nAnalog Digital Wandler verwendet</div>"
+            ],
+            "guid": "C[AqF<P/.)",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie funktioniert das Einerkomplelemt?",
+                "<ul><li>Die Zahl wird invertiert</li><li>Das führende bit signalisiert das Vorzeichen</li></ul>"
+            ],
+            "guid": "Fn!P}=S{$M",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Offset Binary Beispiel",
+                "<img src=\"paste-09d9b99fe4124470350c908e74780d755bc6a6c0.jpg\">"
+            ],
+            "guid": "q6oaf+Esb2",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Einerkomplelemt",
+                "<img src=\"paste-1d0a9e2cf7d32082a7553314682cdd7e606ff216.jpg\">"
+            ],
+            "guid": "iuf.`]{R$!",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nachteil Einerkomplelemt",
+                "\n<div>\n<div>\n<div><ul><li>Es gibt zwei\nunterschiedliche Darstellung der \"0\"</li><li>Betragsgleiche\npositive und negative Zahlen unterscheiden sich durch mehr als nur das\nVorzeichenbit</li></ul></div>\n\n\n</div>\n</div>"
+            ],
+            "guid": "zv+u@bM3kT",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann eine eindeutige Abbildung von + und - Zahlen entstehen?",
+                "Zweierkomplements"
+            ],
+            "guid": "d,Q+d4FGjE",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vorgehen Zweierkomplement",
+                "<ul><li>bitweise Invertierung</li><li>Addition von 1</li></ul>"
+            ],
+            "guid": "J1!A4fVUH8",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Zweierkomplement&nbsp;",
+                "<img src=\"paste-d36b05289001a201f15a67de00a9f73d1b2f20cb.jpg\">"
+            ],
+            "guid": "P5lj175ZKM",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vorteil Zweierkomplement",
+                "Subtraktion kann auf eine Addition zurückgeführt werden"
+            ],
+            "guid": "w#T1CQwJ9n",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Subtraktion Zweierkompliment am Beispiel 6-4 = 2",
+                "<img src=\"paste-b5264082ab1131da1d665bea96f08957a73a2a6d.jpg\">"
+            ],
+            "guid": "K=s&qqTc$u",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Subtraktion Regel wenn Z1 + (-Z2)",
+                "<ul><li>tritt Übertrag auf -&gt; ergebnis ist positiv, Übertrag wird nicht beachtet</li><li>tritt kein Übertrag auf -&gt; Ergebnis ist negativ, in Zwierkomplementdarstellung</li></ul>"
+            ],
+            "guid": "rydm:VA>W5",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Subtraktion Regel wenn -Z1 + (-Z2)",
+                "<ul><li>Übertrag = 1 -&gt; Ergenis in Zweierkompelemtdarstellung</li><li>kein Übertrag, Übertrag =0 -&gt; Ergebnis in Zweierkomplelemtdarstellung</li><li>Übertrag 0 beachten!</li></ul>"
+            ],
+            "guid": "n[e}Mi)YOg",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Subtraktion Beispiel 6-7 = -1 -&gt; 0110 - 0111 = -0001",
+                "<img src=\"paste-ee34c3ba4d99a757d2af3fd652dcc50ee4b60d91.jpg\"><br><br><img src=\"paste-f2528878be7f338b742f62dd27105e889ee377ce.jpg\"><br><br><div>Kein Übertrag -&gt;\n2er Kombination -&gt; 1111 -&gt; 0000 +1 -&gt; 0001 = 1&nbsp;</div>"
+            ],
+            "guid": "FS-<Hf~k*s",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Subtraktion am Beispiel -6-6 = -12 -&gt; -0110 + 0110 = -1100",
+                "<img src=\"paste-2f947873422ccee010b57bc1474b1f00151e0fb7.jpg\">"
+            ],
+            "guid": "l:N|kYv<x-",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Subtraktion im Dualsystem 0-0",
+                "0"
+            ],
+            "guid": "P@igluLWT!",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Subtraktion im Dualsystem 1-0",
+                "1"
+            ],
+            "guid": "EX%W+pA4q)",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Subtraktion im Dualsystem 1-1",
+                "0"
+            ],
+            "guid": "c^ukPxgGVb",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Subtraktion im Dualsystem 0-1",
+                "1<br>Entlehung von 1 von der nächsten Stelle"
+            ],
+            "guid": "Qk+04E<MFj",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Subtraktion im Dualsystem 0-1-1",
+                "0<br><br>Entleihung von 1 von der nächsten Stelle"
+            ],
+            "guid": "iu6*WtwDg:",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Subtraktion im Dualsystem 1-1-1",
+                "1&nbsp;<br><br>Entelihung von 1 von der nächsten Stelle"
+            ],
+            "guid": "xYI[d.8Ssv",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Subtraktion im Dualystem an 8-1 = 7",
+                "<img src=\"paste-1b6a1a70541dafd3da371d6ce8e024573d596546.jpg\">"
+            ],
+            "guid": "KeLxIHL-7e",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Subtraktion im Dualystem an&nbsp;<img src=\"paste-ff49c05687ac767843c12ae0b9879f18da088cec.jpg\">",
+                "<img src=\"paste-29f1b91a6da8d9cf874789038d7e54d62104a3fb.jpg\">"
+            ],
+            "guid": "e;dH!!1hnE",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was passiert wenn ein Übertrag an der höchsten Stelle auftritt?",
+                "Signalisiert ein negatives Ergebnis"
+            ],
+            "guid": "jS[K-y&{5:",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was passiert wenn ein negatives Ergebnis signalisiert wird?",
+                "<div>\n<div>\n<div>\n<div>Das Ergebnis ist\ndann als Zweierkomplement zu interpretieren</div>\n<div>&nbsp;</div>\n<div>11010 -&gt;\ninvertieren -&gt; 00101 -&gt; Addition von 00001 -&gt; 00110 (Zahlenwert), neg.\nVorzeichen</div>\n</div>\n</div></div>"
+            ],
+            "guid": "rk8*xtZeC^",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mulitplikation Binärzahlen Regeln A =0 B = 0",
+                "0"
+            ],
+            "guid": "fkfW_diB{^",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mulitplikation Binärzahlen Regeln A =0 B = 1",
+                "0"
+            ],
+            "guid": "y<>#vSUgMM",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mulitplikation Binärzahlen Regeln A =1 B = 0",
+                "0"
+            ],
+            "guid": "b^BM5Y!zFX",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mulitplikation Binärzahlen Regeln A =1 B = 1",
+                "1"
+            ],
+            "guid": "i~Dj|402>3",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Multiplikation 10100 * 1011",
+                "<img src=\"paste-79b3eb9f287b3bd3611601f27cc527bf1f66065e.jpg\">"
+            ],
+            "guid": "pO}`mdzaGa",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Division von Binärzahlen",
+                "<img src=\"paste-78855317c71bad30010a941719f17099ab60a915.jpg\">"
+            ],
+            "guid": "nG[xMiEL-q",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "BSD-Code Regeln",
+                "<ul><li>1 immer in 1 Schritt</li><li>2 immer im 2er Schritt</li><li>4 immer im 4er Schritt</li><li>8 immer im 8er Schritt</li></ul>"
+            ],
+            "guid": "sp8M;L}}Eb",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel BSD Code",
+                "<img src=\"paste-dbde1ef84000824a4fe5d22ef956fc1a78652d06.jpg\">"
+            ],
+            "guid": "DD}$@F#Y^l",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bedeutet BSD-Code",
+                "Binär Codierte Dezimalziffer"
+            ],
+            "guid": "Ms<Dj*m7m&",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gray Code Beispiel",
+                "<img src=\"paste-2a77bbcc98b1e052f14f6d75afcc8d8c56be311b.jpg\">"
+            ],
+            "guid": "s{KtF9bO/T",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eigenschaften Gray Code",
+                "<ul><li>benachbarte Codewörter unterscheiden sich genau an einer Stelle</li><li>Gray-Code ist nicht bewertbar&nbsp;</li></ul>"
+            ],
+            "guid": "L8b#@j#<M=",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wo wird Gray Code eingesetzt?",
+                "Positionbestimmung"
+            ],
+            "guid": "Em_`|E|SC{",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Grundfunktionen: Negation",
+                "<img src=\"paste-96c22827adc213abda8e9c1d7d4013fbec4dd870.jpg\">"
+            ],
+            "guid": "MVEY;*/H`U",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Grundfunktionen: Konunktion",
+                "<img src=\"paste-01daa23e0dbe82281294ae5a25eadfae4e49eb03.jpg\">"
+            ],
+            "guid": "yvH5Ee+oIx",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Grundfunktion Disjunktion",
+                "<img src=\"paste-43d00e9bb87f86c231ce67870172e00a8c9e1eb0.jpg\">"
+            ],
+            "guid": "vx`bz*_k,O",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Grundfunktion Nicht-Und",
+                "<img src=\"paste-593f72d949d2f0ad5e08c46ff2cda9322eb88459.jpg\">"
+            ],
+            "guid": "bIo^bWZyH2",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Grundfunktion Nicht-Oder",
+                "<img src=\"paste-6ecba8b35e6237cba0ef5b6b16cdb8211d99e826.jpg\">"
+            ],
+            "guid": "DjN4v7)hr~",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Grundfunktionen Antivalenz",
+                "<img src=\"paste-77ed3184cf4832241835c6de5b6b49a23bf2c735.jpg\">"
+            ],
+            "guid": "go3k|0o1A8",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Grundfunktion Äquivalenz",
+                "<img src=\"paste-e0c30fffe39d96f4d394ca6a7bf993e528951077.jpg\">"
+            ],
+            "guid": "DbD[MGvo=,",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Grundfunktion Rechenregel konjunktive Verknüpfung&nbsp;<img src=\"paste-b04bd0b3cbde35eaa54fd5e74a1365caa299de57.jpg\">",
+                "0"
+            ],
+            "guid": "c5j[^l~ufb",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Grundfunktion Rechenregel konjunktive Verknüpfung&nbsp;<img src=\"paste-b8549901f207ef541373af48f73091c8f93037e9.jpg\">",
+                "x"
+            ],
+            "guid": "QOY.7npUW@",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Grundfunktion Rechenregel konjunktive Verknüpfung&nbsp;<img src=\"paste-dd8c0d3264a633fa3a46a8a2165cbae493531cff.jpg\">",
+                "x"
+            ],
+            "guid": "wBI0nm#qpO",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Grundfunktion Rechenregel konjunktive Verknüpfung<img src=\"paste-1024c901f18fa2f5551a32ad8420c03b0ae666db.jpg\">",
+                "0"
+            ],
+            "guid": "k[QS@-M@qK",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Grundfunktion Rechenregel disjunktive Verknüpfung<img src=\"paste-affb018167938e553c43386f28596e8d407ee66f.jpg\">",
+                "x"
+            ],
+            "guid": "PnRorzgR7L",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Grundfunktion Rechenregel disjunktive Verknüpfung<img src=\"paste-bddfd3f6b6f61443846b1ef829f8a082a7c9cd69.jpg\">",
+                "x"
+            ],
+            "guid": "5yw8h^AFv",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Grundfunktion Rechenregel disjunktive Verknüpfung<img src=\"paste-3e1cd809e92c5daaa3b737b26fd397618f3bcc36.jpg\">",
+                "x"
+            ],
+            "guid": "r:6G_hqf*K",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Grundfunktion Rechenregel disjunktive Verknüpfung<img src=\"paste-6757b7ff3d7d711b2b5e3ba05af0370a0d3cf3a0.jpg\">",
+                "1"
+            ],
+            "guid": "Jlug0,TLF:",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Absorptionsgesetz: Ergebnis&nbsp;<img src=\"paste-673271c831ab200926fa7c740800d46453a7b253.jpg\">",
+                "x1"
+            ],
+            "guid": "H~/U(UC#=^",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Absorptions Gesetz&nbsp;<img src=\"paste-1c4ae7143d385f3b9a9de69c593670699cd9bbbe.jpg\">",
+                "x1"
+            ],
+            "guid": "MV5-GjEWY6",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Absoprtions Gesetz&nbsp;<img src=\"paste-e539127d6b68a33248951311c18c06cdab04880b.jpg\">",
+                "x1 und x2"
+            ],
+            "guid": "jjVX|56-xR",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Absorptions-Gesetz&nbsp;<img src=\"paste-c73814c6e1e8a140de8f6a1ee289a5439416ecc7.jpg\">",
+                "x1 v x2"
+            ],
+            "guid": "dcg`w){Oo0",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann eine NADN Verknüpfung ersetzt werden",
+                "durch eine Oder Verknüpfung<br><img src=\"paste-45a48dc64564a49f714b0b135c2412b168e39fa1.jpg\">"
+            ],
+            "guid": "l^h[NgD|E?",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann eine NOR Verknüpfung ersetzt werden",
+                "durch eine AND-Verknüpfung<br><br><img src=\"paste-a094a0072c4a3e4148c7c10d4bfdbbb183bb2c49.jpg\">"
+            ],
+            "guid": "Kk28qXjK8r",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vorrangregel",
+                "<ol><li>Negation</li><li>Konjunktion (AND)</li><li>Disjunktion (ODER)</li></ol>"
+            ],
+            "guid": "mjS+I#anKg",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die Normalform",
+                "Die Darstellung von Schaltfunktionen die ausschließlich die logische Grundfunktion (und, Oder, Nicht) verwenden<br>"
+            ],
+            "guid": "k_3~5SjrTn",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Disjunktive Normalform",
+                "<img src=\"paste-ced4563d4d3b2d5407ec21c7c943d028dcd3a8fa.jpg\">"
+            ],
+            "guid": "QyP<Oy=s,d",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>Beispiel KV-Diagramm</b>",
+                "<img src=\"paste-630ceb1e924ec8d70ebdef62db0643198e063188.jpg\">"
+            ],
+            "guid": "cAC>8~H16&",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Schaltalgebra +",
+                "<img src=\"paste-75aa69f95daf214bf42e9a713627708ec78719ab.jpg\">"
+            ],
+            "guid": "GA]I9H#zJ,",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}

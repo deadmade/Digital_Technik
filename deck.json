@@ -1218,7 +1218,7 @@
             "__type__": "Note",
             "fields": [
                 "Was ist der Ausgangs-Lastfaktor?",
-                "gibt an, mit wie vielen Standard-Eingängen der Logkfamilie ein Ausgang belatet werden kann"
+                "gibt an, mit wie vielen Standard-Eingängen der Logikfamilie ein Ausgang belastet werden kann"
             ],
             "guid": "ttdM)qx&&c",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1228,7 +1228,7 @@
             "__type__": "Note",
             "fields": [
                 "Was sagt der Ausgangs-Lastfaktor aus?",
-                "Wie viele Gather kann ein Gather betreiben"
+                "Wie viele Gatter kann ein Gatter betreiben"
             ],
             "guid": "C+|F)V1739",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1408,7 +1408,7 @@
             "__type__": "Note",
             "fields": [
                 "Was ist bei Schaltwerken mit sequentieller Logik zu beachten?",
-                "Änderungen am Eingang mpssen sich nicht sofort am Ausgang bemerkbar machen&nbsp;"
+                "Änderungen am Eingang müssen sich nicht sofort am Ausgang bemerkbar machen&nbsp;"
             ],
             "guid": "hFl>O2us(@",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1697,7 +1697,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was ist der Wunsch bei einem Tyktzyklus?",
+                "Was ist der Wunsch bei einem Taktzyklus?",
                 "Ereignisse in einer definierten Reihenfolge ablaufen lassen"
             ],
             "guid": "J,3^|Xx^Im",
